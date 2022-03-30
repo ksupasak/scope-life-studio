@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>splash.png</file>
+        <file>main.qss</file>
+        <file>icon.ico</file>
+        <file>logo.png</file>
+        <file>Shutter-01.wav</file>
+    </qresource>
+</RCC>
